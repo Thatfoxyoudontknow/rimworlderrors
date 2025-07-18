@@ -1,0 +1,705 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Initialize engine version: 2022.3.35f1 (011206c7a712)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 (ID=0x2786)
+    Vendor:   NVIDIA
+    VRAM:     12011 MB
+    Driver:   32.0.15.7680
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.273 seconds
+- Finished resetting the current domain, in  0.002 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 0.740667 ms
+Command line arguments: -savedatafolder=C:\Users\wolff\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+RimWorld 1.6.4523 rev1054
+Save data folder overridden to C:\Users\wolff\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+Created WorkshopItem for 2830358905 but there is no folder for it.
+XML format error: List item found with name packageId that is not <li>, and which does not have a custom XML loader method, in <loadAfter><packageId>RedMattis.BetterPrerequisites</packageId><displayName>Big and Small - Framework</displayName><steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2925432336</steamWorkshopUrl></loadAfter>
+XML format error: List item found with name displayName that is not <li>, and which does not have a custom XML loader method, in <loadAfter><packageId>RedMattis.BetterPrerequisites</packageId><displayName>Big and Small - Framework</displayName><steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2925432336</steamWorkshopUrl></loadAfter>
+XML format error: List item found with name steamWorkshopUrl that is not <li>, and which does not have a custom XML loader method, in <loadAfter><packageId>RedMattis.BetterPrerequisites</packageId><displayName>Big and Small - Framework</displayName><steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2925432336</steamWorkshopUrl></loadAfter>
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>)
+Mod disabled is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>)
+Mod DiverseFactionGenetics is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
+Mod Chill the Fork Out dependency (brrainz.harmony) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified.
+Mod Taste of Vanilla - The Alpha Mythology dependency (sarg.magicalmenagerie) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified.
+Mod Arcane Arms dependency (OskarPotocki.VanillaFactionsExpanded.Core) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified.
+Mod Medieval Glass Patch for Rebuild dependency (ReBuild.COTR.DoorsAndCorners) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified.
+Mod Ferian Race - Biotech HD Textures dependency (bichang.ferianrace.biotech) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified.
+Mod More Relic Quests has a dependency (Ludeon.RimWorld.Ideology) with empty display name.
+Mod Hermaphrodite Gene has a dependency (Ludeon.RimWorld.Biotech) with empty display name.
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/MonoBleedingEdge/data-000001E628574680.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/MonoBleedingEdge/data-000001E628680150.dll
+[HugsLib] version 12.0.0
+[HugsLib][warn] Exception loading xml from C:\Users\wolff\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\HugsLib\SpottedMods.xml. Loading defaults instead. Exception was: System.Xml.XmlException: Root element is missing.
+[Ref 60CA8A49]
+  at System.Xml.XmlTextReaderImpl.Throw (System.Exception e) [0x00027] in <506b716a330a4f09bc4a846352df3f09>:0 
+  at System.Xml.XmlTextReaderImpl.ThrowWithoutLineInfo (System.String res) [0x00017] in <506b716a330a4f09bc4a846352df3f09>:0 
+  at System.Xml.XmlTextReaderImpl.ParseDocumentContent () [0x0035d] in <506b716a330a4f09bc4a846352df3f09>:0 
+  at System.Xml.XmlTextReaderImpl.Read () [0x0008c] in <506b716a330a4f09bc4a846352df3f09>:0 
+  at System.Xml.Linq.XDocument.Load (System.Xml.XmlReader reader, System.Xml.Linq.LoadOptions options) [0x00016] in <c96258788c634dbbbc4fb6264ed90a19>:0 
+  at System.Xml.Linq.XDocument.Load (System.String uri, System.Xml.Linq.LoadOptions options) [0x0000f] in <c96258788c634dbbbc4fb6264ed90a19>:0 
+  at System.Xml.Linq.XDocument.Load (System.String uri) [0x00000] in <c96258788c634dbbbc4fb6264ed90a19>:0 
+  at HugsLib.Core.PersistentDataManager.LoadData () [0x0001f] in <e92fb9c535b84355b807623efc376846>:0 
+[HugsLib][warn] Skipping ModSpottingManager saving to preserve improperly loaded file data. Fix or delete the data file and try again.
+[HugsLib] early-initializing AllowTool
+1.6.9317 ::
+[AutoParking] Harmony patches have been applied successfully.
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/MonoBleedingEdge/data-000001E62FBD0EC0.dll
+[RimHUD v1.16.3] Initialized
+Dubs Skylight 1.5.3114
+1.6.9306 ::
+FactionCustomizer is successfully initialized!
+<color=#00FFFFFF>:: Outland - Genetics ::</color> 1.6.9302 ::
+1.6.9299 ::
+[Mashed's Bloodmoon] version 1.0.6
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/MonoBleedingEdge/data-000001E630812010.dll
+MutatedPawn: tickPerGrowingCarcinomaCheck cannot be smaller than 1 or larger than 100000. Revert to the default value of 5000. Please check mod setting!
+MutatedPawn: tickPerToxicBuildupCheck cannot be smaller than 1 or larger than 100000. Revert to the default value of 5000. Please check mod setting!
+1.6.9294 ::
+:: Outland - Toxic Forest :: 1.6.9302 ::
+Persistent Precepts Mod class loaded
+<color=#b7ff1c>[RimForge-PP]</color> Hello, world!
+<color=#b7ff1c>[RimForge-PP]</color> Patched 3 methods:
+System.Collections.Generic.IEnumerable`1[Verse.IntVec3] CellsAdjacentCardinal(Verse.Thing),
+UnityEngine.Texture2D LoadTexture(RimWorld.IO.VirtualFile),
+Void RenderBrokenDownOverlay(Verse.Thing)
+<color=#3399ff>[flammpfeil.rv:Core]</color>init
+<color=#3399ff>[flammpfeil.rv:Core]</color>patch start
+<color=#3399ff>[flammpfeil.rv:VehicleFrameworkFix]</color>init
+<color=#3399ff>[flammpfeil.rv:VehicleFrameworkFix]</color>patch start
+<color=#3399ff>[flammpfeil.rv:GeologicalLandformsPatch]</color>init
+<color=#3399ff>[flammpfeil.rv:GeologicalLandformsPatch]</color>patch start
+RimSaves NX rev24
+null texture passed to GUI.DrawTexture
+null texture passed to GUI.DrawTexture
+null texture passed to GUI.DrawTexture
+null texture passed to GUI.DrawTexture
+null texture passed to GUI.DrawTexture
+null texture passed to GUI.DrawTexture
+RimThemes NX rev10
+[Rimbound - Core] The stars had aligned, commencing assembly...
+[SC Filth Reducer] Successfully applied patch to Verse.AnimalPenUtility.NeedsToBeManagedByRope.
+[SC Filth Reducer] Successfully applied patch to RimWorld.Pawn_PlayerSettings.get_SupportsAllowedAreas.
+[SC Filth Reducer] Successfully applied patch to RimWorld.Building_Door.PawnCanOpen.
+[SC Filth Reducer] Successfully applied patch to RimWorld.Alert_AnimalFilth.CalculateTargets.
+[StorageRefillHysteresis 0.2.0] Mod Loaded.
+DubsMintMenus v1.3.1086
+[Visible Wealth] Loaded.
+Loaded What's That Mod.
+ReBuild: Doors and Corners 1.4-Miller-rev5
+Gestalt Engine (Continued) 1.6.0
+ReSplice: Core 1.0.1-Shelley-rev5
+[UseThisInstead]: Found 1 replacements
+XML format error: List item found with name Operation that is not <li>, and which does not have a custom XML loader method, in <operations><Operation Class="PatchOperationConditional"><xpath>Defs/ThoughtDef[defName="LookChangeDesired"]/nullifyingGenes</xpath><nomatch Class="PatchOperationAdd"><xpath>Defs/ThoughtDef[defName="LookChangeDesired"]</xpath><value><nullifyingGenes><li>RB_Corona_Hair</li></nullifyingGenes></value></nomatch><match Class="PatchOperationAdd"><xpath>Defs/ThoughtDef[defName="LookChangeDesired"]/nullifyingGenes</xpath><value><li>RB_Corona_Hair</li></value></match></Operation></operations>
+[Treasures - Start of stack trace]
+Verse.PatchOperationAddModExtension(xpath="Defs/ThingDef[@Name="VBE_AmbrandyBase"]"): Failed to find a node with the given xpath
+Verse.PatchOperationSequence: Error in the operation at position=1
+Verse.PatchOperationFindMod(Vanilla Brewing Expanded): Error in <match>
+[End of stack trace]
+Source file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2971815439\1.6\Patches\VanillaBrewingExpanded.xml
+[Vehicle Interior Framework - Start of stack trace]
+Verse.PatchOperationRemove(xpath="Defs/ResearchTabDef[defName = "ResearchTab_RVwithPD_Vehicles"]"): Failed to find a node with the given xpath
+[End of stack trace]
+Source file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework - Start of stack trace]
+Verse.PatchOperationReplace(xpath="Defs/ResearchProjectDef[defName = "Research_RVwithPD"]/label"): Failed to find a node with the given xpath
+[End of stack trace]
+Source file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework - Start of stack trace]
+Verse.PatchOperationReplace(xpath="Defs/ResearchProjectDef[defName = "Research_RVwithPD"]/description"): Failed to find a node with the given xpath
+[End of stack trace]
+Source file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework - Start of stack trace]
+Verse.PatchOperationReplace(xpath="Defs/ResearchProjectDef[defName = "Research_RVwithPD"]/prerequisites"): Failed to find a node with the given xpath
+[End of stack trace]
+Source file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework - Start of stack trace]
+Verse.PatchOperationReplace(xpath="Defs/ResearchProjectDef[defName = "Research_RVwithPD"]/baseCost"): Failed to find a node with the given xpath
+[End of stack trace]
+Source file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework - Start of stack trace]
+Verse.PatchOperationRemove(xpath="Defs/ResearchProjectDef[defName = "Research_RVwithPD"]/tab"): Failed to find a node with the given xpath
+[End of stack trace]
+Source file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework - Start of stack trace]
+Verse.PatchOperationReplace(xpath="Defs/ResearchProjectDef[defName = "Research_RVwithPD"]/researchViewX"): Failed to find a node with the given xpath
+[End of stack trace]
+Source file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework - Start of stack trace]
+Verse.PatchOperationReplace(xpath="Defs/ResearchProjectDef[defName = "Research_RVwithPD"]/researchViewY"): Failed to find a node with the given xpath
+[End of stack trace]
+Source file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework - Start of stack trace]
+Verse.PatchOperationRemove(xpath="Defs/ResearchProjectDef[defName = "Research_RVwithPD"]"): Failed to find a node with the given xpath
+Verse.PatchOperationFindMod(Vanilla Vehicles Expanded): Error in <match>
+[End of stack trace]
+Source file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\VVECompatibility.xml
+Parsed 0.8 as int.
+Parsed 4.5 as int.
+XML error: <li>BGI_BinaryInheritance</li> doesn't correspond to any field in type XenotypeDef. Context: <XenotypeDef><defName>AR_Xeno_Poon</defName><label>poon</label><description>An ancient but thriving race of dryads who are tactful and cunning. Poons have adapted beyond being prey from deep woodlands, able to take on any foe that stands against them.</description><descriptionShort>An ancient but thriving race of dryads who are tactful and cunning. Poons have adapted beyond being prey from deep woodlands, able to take on any foe that stands against them.</descriptionShort><iconPath>Core/Cosmetics/Poon/AR_Poon_Icon</iconPath><inheritable>true</inheritable><li>BGI_BinaryInheritance</li><genes><li>AR_Horns_Poon</li><li>AR_Ears_Poon</li><li>AR_Head_Poon</li><li>AR_Tail_Poon</li><li>AR_Colors_Skin_Poon_1</li><li>AR_Colors_Skin_Poon_2</li><li>AR_Colors_Skin_Poon_3</li></genes></XenotypeDef>
+Parsed 0.3 as int.
+Parsed 0.3 as int.
+XML error: <Visible>false</Visible> doesn't correspond to any field in type DesignationCategoryDef. Context: <DesignationCategoryDef><defName>ASFstorage</defName><label>storage</label><order>503</order><specialDesignatorClasses><li>Designator_Cancel</li><li>Designator_Deconstruct</li></specialDesignatorClasses><Visible>false</Visible></DesignationCategoryDef>
+[Treasures] Patch operation Verse.PatchOperationFindMod(Vanilla Brewing Expanded) failed
+file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2971815439\1.6\Patches\VanillaBrewingExpanded.xml
+[Vehicle Interior Framework] Patch operation Verse.PatchOperationRemove(Defs/ResearchTabDef[defName = "ResearchTab_RVwithPD_Vehicles"]) failed
+file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework] Patch operation Verse.PatchOperationReplace(Defs/ResearchProjectDef[defName = "Research_RVwithPD"]/label) failed
+file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework] Patch operation Verse.PatchOperationReplace(Defs/ResearchProjectDef[defName = "Research_RVwithPD"]/description) failed
+file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework] Patch operation Verse.PatchOperationReplace(Defs/ResearchProjectDef[defName = "Research_RVwithPD"]/prerequisites) failed
+file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework] Patch operation Verse.PatchOperationReplace(Defs/ResearchProjectDef[defName = "Research_RVwithPD"]/baseCost) failed
+file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework] Patch operation Verse.PatchOperationRemove(Defs/ResearchProjectDef[defName = "Research_RVwithPD"]/tab) failed
+file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework] Patch operation Verse.PatchOperationReplace(Defs/ResearchProjectDef[defName = "Research_RVwithPD"]/researchViewX) failed
+file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework] Patch operation Verse.PatchOperationReplace(Defs/ResearchProjectDef[defName = "Research_RVwithPD"]/researchViewY) failed
+file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\RVOverhaul.xml
+[Vehicle Interior Framework] Patch operation Verse.PatchOperationFindMod(Vanilla Vehicles Expanded) failed
+file: C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\3184281714\1.6 Vehicle Framework Integration\Patches\VVECompatibility.xml
+Mod vera.bug has multiple Verse.GeneDefs named Exoskin. Skipping.
+Mod vera.bug has multiple Verse.GeneDefs named BP_Motheyes. Skipping.
+Mod vera.bug has multiple Verse.GeneDefs named Insectiod_Mantideyes. Skipping.
+Could not resolve cross-reference: No Verse.SoundDef named Jiralhanae_Call found to give to Verse.GeneDef JiralhanaeVoice (using undefined sound instead)
+Could not resolve cross-reference: No Verse.SoundDef named Jiralhanae_Death found to give to Verse.GeneDef JiralhanaeVoice (using undefined sound instead)
+Could not resolve cross-reference: No Verse.SoundDef named Jiralhanae_Wounded found to give to Verse.GeneDef JiralhanaeVoice (using undefined sound instead)
+[Big and Small]: Found 29 AlienRace.ThingDef_AlienRace ThingDefs.
+These are either from HAR races or B&S races automatically converted for compatibility.
+Skipping generating humanlike-animal from VPE_RockConstruct as it has an unhandled type of renderTree: VPE_RockConstruct_Tree.
+No warning will be sent for any further animals skipped for humanlike-animal generation to avoid spamming the log.
+Failed to patch VFEInsectoids 2's Creep with additional genes.
+Could not resolve cross-reference to Verse.ResearchProjectDef named CovenantArmory (wanter=projects)
+Could not resolve cross-reference to Verse.ResearchProjectDef named CovenantArmory (wanter=projects)
+Could not resolve cross-reference to Verse.ResearchProjectDef named CovenantArmory (wanter=projects)
+Config error in AP_TeleportSpike: no label
+Config error in HL_AA_Aerofleet: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_AA_ColossalAerofleet: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_AA_Agaripawn: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_AA_Agaripod: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_AA_Cactipine: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_AA_Mantrap: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_AA_MycoidColossus: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_AA_Needlepost: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_AA_Needleroll: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_AA_OcularJelly: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_AA_Wildpawn: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_AA_Wildpod: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_BMT_LandOctopus: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_BMT_MucklurkerCatfish: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_BMT_MutatingTumorfishSpawn: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_BMT_MutatingTumorfishFry: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_BMT_MutatingTumorfishAdult: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_BMT_SludgeCrawler: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_DA_BeardedTroll: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Config error in HL_RB_Snugget: specificMeatDef and useMeatFrom are both non-null. specificMeatDef will be chosen.
+Key binding conflict: MainTab_History and MainTab_AM_LevelSchedule are both bound to F9.
+Key binding conflict: MainTab_AM_LevelSchedule and MainTab_History are both bound to F9.
+<color=#b7ff1c>[RimForge-PP]</color> Texture C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2507086460\Textures\RF\Buildings\PowerPoleCable.png was loaded with no mipmaps, bilinear.
+[Biomes! Core v2.6.2.0] Initialized
+startIndex: 18
+endIndex: 25
+Start: newobj System.Void System.Text.StringBuilder::.ctor()
+End:callvirt virtual System.String System.Object::ToString()
+Start: stloc.1 NULL
+End:br.s Label4
+FactionDef Insect must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Core.
+FactionDef SynthEvil must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Rim-Robots_.
+FactionDef MinorSuperVillainGang must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Superhero Genes - Villains and Stereotypes.
+FactionDef SuperVillainGang must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Superhero Genes - Villains and Stereotypes.
+FactionDef SHG_MinorSuperGroup must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Superhero Genes - Hero Organization.
+FactionDef SHG_SuperheroOrganization must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Superhero Genes - Hero Organization.
+[Pawn Editor] Humanoid Alien Races compatibility active.
+[Pawn Editor] Vanilla Skills Expanded compatibility active.
+Translation data for language English has 18 errors. Generate translation report for more info.
+[XML Extensions] Initialized 3 SettingsMenuDef(s) and found 81 unused key(s) from 8 mod(s)
+[XML Extensions] 6332 total patch operations run in 47846ms, 10 failed
+[XML Extensions] Emitted 3 mod class(es)
+Alien race successfully completed 273 patches (51 pre, 80 post, 142 trans) with harmony.
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/MonoBleedingEdge/data-000001EABD7C7020.dll
+KCSG has Created 9394 symbolDefs for vanilla and DLCs
+[KCSG] Reel's Insector Faction contains 6 missing symbols.
+<color=orange>[KCSG]</color> Missing symbol: VFEI2_DeepHeater (needed 13 times)
+<color=orange>[KCSG]</color> Missing symbol: VFEI2_HeatPod (needed 15 times)
+<color=orange>[KCSG]</color> Missing symbol: VFEI2_Chitin (needed 6 times)
+<color=orange>[KCSG]</color> Missing symbol: VFEI2_RoyalInsectJelly (needed 11 times)
+<color=orange>[KCSG]</color> Missing symbol: VFEI2_StaticPod (needed 6 times)
+<color=orange>[KCSG]</color> Missing symbol: VFEI2_Tendrilmoss (needed 2 times)
+[KCSG] Vanilla Base Generation Expanded contains 1 missing symbols.
+<color=orange>[KCSG]</color> Missing symbol: PsychicEmanator (needed 2 times)
+[VehicleFramework] version 1.6.2045
+[SmashPhil.VehicleFramework] Applying compatibility patch for m00nl1ght.GeologicalLandforms. Active: Yes
+[SmashPhil.VehicleFramework] Applying compatibility patch for Jaxe.RimHUD. Active: Yes
+[SmashPhil.VehicleFramework] Applying compatibility patch for VanillaExpanded.VCEF. Active: Yes
+JP_ALH: Loading..
+Patching Madeline.ModMismatchWindow
+Biotech Expansion - Core Loaded!
+OopsBug: Could not find VanillaGenesExpanded.GeneExtension class.
+OopsBug: Could not find VanillaGenesExpanded.GeneExtension class.
+OopsBug: Could not find VanillaGenesExpanded.GeneExtension class.
+Error in static constructor of OopsBug.OopsAllMod: System.TypeInitializationException: The type initializer for 'OopsBug.OopsAllMod' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 7F0F909]
+  at OopsBug.Patches.VFEGeneExtensionWrapper.get_BackgroundPathEndogenes () [0x00000] in <910a98f5c496454ca1f542ee996ce5e9>:0 
+  at OopsBug.PatchOopsDefs.AddGeneBackgrounds (Verse.GeneDef geneDef) [0x00049] in <910a98f5c496454ca1f542ee996ce5e9>:0 
+  at OopsBug.PatchOopsDefs.Patch () [0x000b7] in <910a98f5c496454ca1f542ee996ce5e9>:0 
+<0x1e6cf0cfa60 + 0x000fa> <unknown method>
+   --- End of inner exception stack trace ---
+[Ref CEA593A3]
+(wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(intptr)
+  at System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor (System.RuntimeTypeHandle type) [0x00054] in <51fded79cd284d4d911c5949aff4cb21>:0 
+    - PREFIX rimworld.aRandomKiwi.RimTheme: Boolean aRandomKiwi.RimThemes.RuntimeHelpers_RunClassConstructor_Patch:Prefix(RuntimeTypeHandle type)
+  at Verse.StaticConstructorOnStartupUtility.CallAll () [0x00043] in <981a33edf24d499488b0f820d94638e1>:0 
+    - PREFIX rimworld.aRandomKiwi.RimTheme: Boolean aRandomKiwi.RimThemes.StaticConstructorOnStartupUtility_CallAll_Patch:Prefix()
+    - POSTFIX LunarFramework.Bootstrap: Void LunarFramework.Internal.Patches.Patch_Verse_StaticConstructorOnStartupUtility:CallAll_Postfix()
+    - POSTFIX LayeredDestruction.patch: Void LayeredDestruction.StaticConstructorOnStartupUtilityPatch:Postfix()
+[Biomes! Prehistoric v1.2.0.0] Initialized
+Biotech Expansion - Mammalia Loaded!
+Biotech Expansion - Mythic Loaded!
+Biotech Expansion - Insectoid Loaded!
+Passion On Level Up Says Hello
+[MarkThatPawn]: Found 20 icons for GDI
+[MarkThatPawn]: Found 8 icons for Ideology
+[MarkThatPawn]: Found 19 icons for Jobs
+[MarkThatPawn]: Found 8 icons for Militar
+[MarkThatPawn]: Found 20 icons for Nod
+[MarkThatPawn]: Found 8 icons for Numbers
+[MarkThatPawn]: Found 17 icons for Skills
+[MarkThatPawn]: Found 16 icons for Symbols
+[MarkThatPawn]: Found 13 icons for Weapons
+[MarkThatPawn]: Found 8 icons for WOW Style
+[MarkThatPawn]: Found 18 icons for XCOM
+[MarkThatPawn]: Found 13 icons for XCOM 2
+[MarkThatPawn]: Found 9 icons for XCOM Medieval
+[MarkThatPawn]: Found 2507 loaded weapons, 79 explosive weapons and 129 thrown projectiles
+[MarkThatPawn]: Found 490 loaded apparel, 280 armored apparel, 32 royal apparel, 29 psycast apparel, 74 enviromental protection apparel, 17 mechanator apparel and 179 basic apparel 
+[MarkThatPawn]: Found 0 automatic rules defined
+[MarkThatPawn]: Vehicle Framework detected, adding compatility patch
+Error in static constructor of MarkThatPawn.MarkThatPawn: System.TypeInitializationException: The type initializer for 'MarkThatPawn.MarkThatPawn' threw an exception. ---> System.NullReferenceException: Null method for Mlie.MarkThatPawn
+[Ref 73588D33]
+  at HarmonyLib.PatchProcessor.Patch () [0x0001d] in <8124cc12bdf242eab0a5f7e7edecf387>:0 
+  at HarmonyLib.Harmony.Patch (System.Reflection.MethodBase original, HarmonyLib.HarmonyMethod prefix, HarmonyLib.HarmonyMethod postfix, HarmonyLib.HarmonyMethod transpiler, HarmonyLib.HarmonyMethod finalizer) [0x0002a] in <8124cc12bdf242eab0a5f7e7edecf387>:0 
+<0x1e6d34b0000 + 0x03fba> <unknown method>
+   --- End of inner exception stack trace ---
+[Ref CEA593A3] Duplicate stacktrace, see ref for original
+[TrueTerrainColors v1.12.20] Loaded cached true colors for 1727 terrain defs from file.
+New Game Plus loaded.
+[NoMissingGeneIcons]: Fixed missing gene-graphics for 1 ChemicalDefs. 
+Ambrosia
+[Non-Destructive Gravlaunch] Successful initialisation.
+PersistentPrecepts Loaded
+Locks: Doors expanded not found 
+Locks: SoS2 not found 
+Enabled Prison Labor v1.6.0
+Psilocap Cultivation initialized!
+[Quality Of Building] patching
+[<color=#4494E3FF>Steve's Walls</color>] 03/15/2024 <color=#ff8c66>[1.5 Update | Older versions will no longer be maintained.]</color>
+Uncapped Besties Loaded!
+Patched lower relation bound from -100 to -10000
+Patched upper relation bound from 100 to 10000
+Lovin MTB patched!
+Lovin MTB patched!
+<color=#00FFFFFF>The almighty power of Harmony has been initialized by the humble mod creator BlueEagle421</color>
+Patched lower relation bound from -100 to -10000
+Patched upper relation bound from 100 to 10000
+The following HairDefs have misconfigured texPaths or missing textures: Jiralhanae_Hair_Blank (from HALO - The Covenant)
+Wildheart_Psycast patch successful
+[Harmony] GravEngine patches applied
+PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
+[Geological Landforms v1.7.7.1] Found landform data in the following mods: Geological Landforms
+[Geological Landforms v1.7.7.1] Loaded 44 landforms of which 0 are edited and 0 are custom.
+[WorldTechLevel v1.1.6] Filters initialized.
+[LunarFramework v1.1.16] Processed 15 Harmony patches in 3511 ms.
+Type Stance_Teleport probably needs a StaticConstructorOnStartup attribute, because it has a field UnfilledMat of type Material. All assets must be loaded in the main thread.
+Type Building_CBattery probably needs a StaticConstructorOnStartup attribute, because it has a field BatteryBarFilledMat of type Material. All assets must be loaded in the main thread.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 21)
+MVCF successfully applied 57 patches
+Textures were not found for one or more extended graphics for Mechanent: RobotRace/Stump_Mechanent/SynthNeck
+Unloading 441 unused Assets to reduce memory usage. Loaded Objects now: 107891.
+Total: 1421.327222 ms (FindLiveObjects: 6.484763 ms CreateObjectMapping: 8.542706 ms MarkObjects: 1404.937080 ms  DeleteObjects: 1.357295 ms)
+
+CameraPlus: Found mod at C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\867467808
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+<color=#1c6beb>[FacLoadout]</color> Game comp finalized init, applied 0 presets that affected 0 factions.
+XML format error: List item found with name Operation that is not <li>, and which does not have a custom XML loader method, in <operations><Operation Class="PatchOperationConditional"><xpath>Defs/ThoughtDef[defName="LookChangeDesired"]/nullifyingGenes</xpath><nomatch Class="PatchOperationAdd"><xpath>Defs/ThoughtDef[defName="LookChangeDesired"]</xpath><value><nullifyingGenes><li>RB_Corona_Hair</li></nullifyingGenes></value></nomatch><match Class="PatchOperationAdd"><xpath>Defs/ThoughtDef[defName="LookChangeDesired"]/nullifyingGenes</xpath><value><li>RB_Corona_Hair</li></value></match></Operation></operations>
+  --> [What's That Mod] Took 0.54 seconds to scan all patches. <--
+What's That Mod: Wrote to 27359 mod descriptions, 108 patched defs resolved.
+What's That Mod took 578 milliseconds to generate all def descriptions.
+[HugsLib] initializing BlueprintTotalsTooltip, RunAndGun
+Exception filling window for VFEPirates.Page_ChooseCurses: System.NullReferenceException: Null method for VFEPirates.Mod
+[Ref CB315DEC]
+  at HarmonyLib.PatchProcessor.Patch () [0x0001d] in <8124cc12bdf242eab0a5f7e7edecf387>:0 
+  at HarmonyLib.Harmony.Patch (System.Reflection.MethodBase original, HarmonyLib.HarmonyMethod prefix, HarmonyLib.HarmonyMethod postfix, HarmonyLib.HarmonyMethod transpiler, HarmonyLib.HarmonyMethod finalizer) [0x0002a] in <8124cc12bdf242eab0a5f7e7edecf387>:0 
+  at VFEPirates.CurseWorker.Patch (System.Reflection.MethodBase original, System.Reflection.MethodInfo prefix, System.Reflection.MethodInfo postfix, System.Reflection.MethodInfo transpiler) [0x0003e] in <e20791f21f864263a93d54134247df48>:0 
+  at VFEPirates.CurseOfTheArmored.DoPatches () [0x001c0] in <e20791f21f864263a93d54134247df48>:0 
+  at VFEPirates.CurseWorker.Start () [0x00037] in <e20791f21f864263a93d54134247df48>:0 
+  at VFEPirates.Page_ChooseCurses.DoCurse (UnityEngine.Rect rect, VFEPirates.CurseDef curse) [0x0016b] in <e20791f21f864263a93d54134247df48>:0 
+  at VFEPirates.Page_ChooseCurses.DoWindowContents (UnityEngine.Rect inRect) [0x00136] in <e20791f21f864263a93d54134247df48>:0 
+  at Verse.Window.InnerWindowOnGUI (System.Int32 x) [0x001a6] in <981a33edf24d499488b0f820d94638e1>:0 
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing.
+Alignment was UpperCenter at end of frame.
+[WorldTechLevel v1.1.6] FactionDef database was modified, re-initializing tech levels.
+null texture passed to GUI.DrawTexture
+null texture passed to GUI.DrawTexture
+[WorldTechLevel v1.1.6] Current world tech level is Unrestricted.
+[WorldTechLevel v1.1.6] Player faction tech level from scenario is Industrial.
+null texture passed to GUI.DrawTexture
+null texture passed to GUI.DrawTexture
+null texture passed to GUI.DrawTexture
+FactionControl: Temporarily set 'Surface' settlementsPer100kTiles to 75-85 for world generation.
+UnloadedWorldObjectComp  Init
+Error while generating pawn. Rethrowing. Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: collection
+[Ref 5858D967]
+ [0x00006] in <51fded79cd284d4d911c5949aff4cb21>:0 
+<0x1e62279a9b0 + 0x0026a> <unknown method>
+  at Buggy.RimworldMod.MutatedPawn.GenerateGenesPatch.Postfix (Verse.Pawn pawn, RimWorld.XenotypeDef xenotype, Verse.PawnGenerationRequest request) [0x000ab] in <4251156a6d8d4b54af5217c631e8a637>:0 
+  at Verse.PawnGenerator.GenerateGenes (Verse.Pawn pawn, RimWorld.XenotypeDef xenotype, Verse.PawnGenerationRequest request) [0x00444] in <981a33edf24d499488b0f820d94638e1>:0 
+    - TRANSPILER rimworld.erdelf.alien_race.main: IEnumerable`1 AlienRace.HarmonyPatches:GenerateGenesTranspiler(IEnumerable`1 instructions)
+    - PREFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GenerateGenesPrefix(Pawn pawn, PawnGenerationRequest& request)
+    - POSTFIX Neronix17.TabulaRasa.RimWorld: Void TabulaRasa.Patch_PawnGen_GenerateGenes:Postfix(Pawn pawn, XenotypeDef xenotype, PawnGenerationRequest request)
+    - POSTFIX OskarPotocki.VEF: Void VEF.Genes.VanillaExpandedFramework_PawnGenerator_GenerateGenes_Patch:Postfix(Pawn pawn)
+    - POSTFIX com.airo.rimbound: Void RimboundCore.HarmonyPatches.HarmonyPatch_PawnGeneratorGenerateGenes:HarmonyPatchPostfix_PawnGeneratorGenerateGenes(Pawn pawn)
+    - POSTFIX RedMattis.BetterPrerequisites: Void BigAndSmall.GeneSetupHarmonyPatches:GenerateGenes_Postfix(Pawn pawn, XenotypeDef xenotype, PawnGenerationRequest request)
+    - POSTFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GenerateGenesPostfix(Pawn pawn)
+    - POSTFIX Vera.bug: Void OopsBug.OopsVanillaPatches:Post_GenerateGenes(Pawn pawn)
+    - POSTFIX Buggy.MutatedPawn: Void Buggy.RimworldMod.MutatedPawn.GenerateGenesPatch:Postfix(Pawn pawn, XenotypeDef xenotype, PawnGenerationRequest request)
+    - POSTFIX rimworld.mod.Maux.Rimbody: Void Maux36.Rimbody.PawnGenerator_GenerateGenes:Postfix(Pawn pawn)
+  at Verse.PawnGenerator.TryGenerateNewPawnInternal (Verse.PawnGenerationRequest& request, System.String& error, System.Boolean ignoreScenarioRequirements, System.Boolean ignoreValidator) [0x004f6] in <981a33edf24d499488b0f820d94638e1>:0 
+    - TRANSPILER VFEEmpire.Mod: IEnumerable`1 VFEEmpire.HarmonyPatches.Patch_PawnGenerator:Transpiler(IEnumerable`1 instructions)
+    - TRANSPILER rimworld.erdelf.alien_race.main: IEnumerable`1 AlienRace.HarmonyPatches:TryGenerateNewPawnInternalTranspiler(IEnumerable`1 instructions)
+    - PREFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:TryGenerateNewPawnInternalPrefix(PawnGenerationRequest& request)
+    - POSTFIX Rimworld.Alite.EBSG.main: Void EBSGFramework.HarmonyPatches:TryGenerateNewPawnInternalPostfix(Pawn& __result)
+  at Verse.PawnGenerator.GenerateNewPawnInternal (Verse.PawnGenerationRequest& request) [0x000a5] in <981a33edf24d499488b0f820d94638e1>:0 
+    - POSTFIX OskarPotocki.VEF: Void VEF.Abilities.VanillaExpandedFramework_PawnGenerator_GenerateNewPawnInternal_Patch:Postfix(Pawn __result)
+    - POSTFIX RedMattis.BetterPrerequisites: Void BigAndSmall.GenerateNewPawnInternal:GenerateNewPawnInternalPrefix(Pawn& __result, PawnGenerationRequest& request)
+    - POSTFIX OskarPotocki.VanillaPsycastsExpanded: Void VanillaPsycastsExpanded.PawnGen_Patch:Postfix(Pawn __result, PawnGenerationRequest request)
+    - POSTFIX co.uk.feldoh.factionloadout.vepsycastscompat: Void TotalControlVEPsycastsCompat.PawnGenPatch:Postfix(Pawn __result, PawnGenerationRequest request)
+    - POSTFIX co.uk.epicguru.factionloadout: Void FactionLoadout.PawnGenPatchCore:Postfix(Pawn __result, PawnGenerationRequest request)
+  at Verse.PawnGenerator.GenerateOrRedressPawnInternal (Verse.PawnGenerationRequest request) [0x0019b] in <981a33edf24d499488b0f820d94638e1>:0 
+    - PREFIX BreadMoFuckIdeoApprelAM: Void BreadMoFuckIdeoApprelAM.FuckIdeoApparel:FuckingIdeoApparel(PawnGenerationRequest& request)
+  at Verse.PawnGenerator.GeneratePawn (Verse.PawnGenerationRequest request) [0x0005b] in <981a33edf24d499488b0f820d94638e1>:0 
+    - PREFIX SmashPhil.VehicleFramework: Boolean Vehicles.Patch_Construction:GenerateVehiclePawn(PawnGenerationRequest request, Pawn& __result)
+    - PREFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GeneratePawnPrefix(PawnGenerationRequest& request)
+    - PREFIX WorldTechLevel.Filters: Void WorldTechLevel.Patches.Patch_PawnGenerator:GeneratePawn_Prefix(PawnGenerationRequest& request)
+    - POSTFIX Neronix17.TabulaRasa.RimWorld: Void TabulaRasa.Patch_PawnGenerator_GeneratePawn:Postfix(PawnGenerationRequest request, Pawn __result)
+    - POSTFIX MechanoidUpgradesPatch: Void MU.Patch_GenerateUpgradedPawn:Postfix(PawnGenerationRequest request, Pawn& __result)
+    - POSTFIX RedMattis.BetterPrerequisites: Void BigAndSmall.PregnancyPatches:GeneratePawnPostfix(Pawn __result, PawnGenerationRequest request)
+    - POSTFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GeneratePawnPostfix(Pawn __result)
+    - POSTFIX VFEPirates.Mod: Void VFEPirates.PawnGenerator_GeneratePawn_Patch:Postfix(Pawn __result)
+Error in WorldGenStep: System.ArgumentNullException: Value cannot be null.
+Parameter name: collection
+[Ref 76A2F300]
+ [0x00006] in <51fded79cd284d4d911c5949aff4cb21>:0 
+<0x1e62279a9b0 + 0x0026a> <unknown method>
+  at Buggy.RimworldMod.MutatedPawn.GenerateGenesPatch.Postfix (Verse.Pawn pawn, RimWorld.XenotypeDef xenotype, Verse.PawnGenerationRequest request) [0x000ab] in <4251156a6d8d4b54af5217c631e8a637>:0 
+  at Verse.PawnGenerator.GenerateGenes (Verse.Pawn pawn, RimWorld.XenotypeDef xenotype, Verse.PawnGenerationRequest request) [0x00444] in <981a33edf24d499488b0f820d94638e1>:0 
+    - TRANSPILER rimworld.erdelf.alien_race.main: IEnumerable`1 AlienRace.HarmonyPatches:GenerateGenesTranspiler(IEnumerable`1 instructions)
+    - PREFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GenerateGenesPrefix(Pawn pawn, PawnGenerationRequest& request)
+    - POSTFIX Neronix17.TabulaRasa.RimWorld: Void TabulaRasa.Patch_PawnGen_GenerateGenes:Postfix(Pawn pawn, XenotypeDef xenotype, PawnGenerationRequest request)
+    - POSTFIX OskarPotocki.VEF: Void VEF.Genes.VanillaExpandedFramework_PawnGenerator_GenerateGenes_Patch:Postfix(Pawn pawn)
+    - POSTFIX com.airo.rimbound: Void RimboundCore.HarmonyPatches.HarmonyPatch_PawnGeneratorGenerateGenes:HarmonyPatchPostfix_PawnGeneratorGenerateGenes(Pawn pawn)
+    - POSTFIX RedMattis.BetterPrerequisites: Void BigAndSmall.GeneSetupHarmonyPatches:GenerateGenes_Postfix(Pawn pawn, XenotypeDef xenotype, PawnGenerationRequest request)
+    - POSTFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GenerateGenesPostfix(Pawn pawn)
+    - POSTFIX Vera.bug: Void OopsBug.OopsVanillaPatches:Post_GenerateGenes(Pawn pawn)
+    - POSTFIX Buggy.MutatedPawn: Void Buggy.RimworldMod.MutatedPawn.GenerateGenesPatch:Postfix(Pawn pawn, XenotypeDef xenotype, PawnGenerationRequest request)
+    - POSTFIX rimworld.mod.Maux.Rimbody: Void Maux36.Rimbody.PawnGenerator_GenerateGenes:Postfix(Pawn pawn)
+  at Verse.PawnGenerator.TryGenerateNewPawnInternal (Verse.PawnGenerationRequest& request, System.String& error, System.Boolean ignoreScenarioRequirements, System.Boolean ignoreValidator) [0x004f6] in <981a33edf24d499488b0f820d94638e1>:0 
+    - TRANSPILER VFEEmpire.Mod: IEnumerable`1 VFEEmpire.HarmonyPatches.Patch_PawnGenerator:Transpiler(IEnumerable`1 instructions)
+    - TRANSPILER rimworld.erdelf.alien_race.main: IEnumerable`1 AlienRace.HarmonyPatches:TryGenerateNewPawnInternalTranspiler(IEnumerable`1 instructions)
+    - PREFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:TryGenerateNewPawnInternalPrefix(PawnGenerationRequest& request)
+    - POSTFIX Rimworld.Alite.EBSG.main: Void EBSGFramework.HarmonyPatches:TryGenerateNewPawnInternalPostfix(Pawn& __result)
+  at Verse.PawnGenerator.GenerateNewPawnInternal (Verse.PawnGenerationRequest& request) [0x000a5] in <981a33edf24d499488b0f820d94638e1>:0 
+    - POSTFIX OskarPotocki.VEF: Void VEF.Abilities.VanillaExpandedFramework_PawnGenerator_GenerateNewPawnInternal_Patch:Postfix(Pawn __result)
+    - POSTFIX RedMattis.BetterPrerequisites: Void BigAndSmall.GenerateNewPawnInternal:GenerateNewPawnInternalPrefix(Pawn& __result, PawnGenerationRequest& request)
+    - POSTFIX OskarPotocki.VanillaPsycastsExpanded: Void VanillaPsycastsExpanded.PawnGen_Patch:Postfix(Pawn __result, PawnGenerationRequest request)
+    - POSTFIX co.uk.feldoh.factionloadout.vepsycastscompat: Void TotalControlVEPsycastsCompat.PawnGenPatch:Postfix(Pawn __result, PawnGenerationRequest request)
+    - POSTFIX co.uk.epicguru.factionloadout: Void FactionLoadout.PawnGenPatchCore:Postfix(Pawn __result, PawnGenerationRequest request)
+  at Verse.PawnGenerator.GenerateOrRedressPawnInternal (Verse.PawnGenerationRequest request) [0x0019b] in <981a33edf24d499488b0f820d94638e1>:0 
+    - PREFIX BreadMoFuckIdeoApprelAM: Void BreadMoFuckIdeoApprelAM.FuckIdeoApparel:FuckingIdeoApparel(PawnGenerationRequest& request)
+  at Verse.PawnGenerator.GeneratePawn (Verse.PawnGenerationRequest request) [0x00207] in <981a33edf24d499488b0f820d94638e1>:0 
+    - PREFIX SmashPhil.VehicleFramework: Boolean Vehicles.Patch_Construction:GenerateVehiclePawn(PawnGenerationRequest request, Pawn& __result)
+    - PREFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GeneratePawnPrefix(PawnGenerationRequest& request)
+    - PREFIX WorldTechLevel.Filters: Void WorldTechLevel.Patches.Patch_PawnGenerator:GeneratePawn_Prefix(PawnGenerationRequest& request)
+    - POSTFIX Neronix17.TabulaRasa.RimWorld: Void TabulaRasa.Patch_PawnGenerator_GeneratePawn:Postfix(PawnGenerationRequest request, Pawn __result)
+    - POSTFIX MechanoidUpgradesPatch: Void MU.Patch_GenerateUpgradedPawn:Postfix(PawnGenerationRequest request, Pawn& __result)
+    - POSTFIX RedMattis.BetterPrerequisites: Void BigAndSmall.PregnancyPatches:GeneratePawnPostfix(Pawn __result, PawnGenerationRequest request)
+    - POSTFIX rimworld.erdelf.alien_race.main: Void AlienRace.HarmonyPatches:GeneratePawnPostfix(Pawn __result)
+    - POSTFIX VFEPirates.Mod: Void VFEPirates.PawnGenerator_GeneratePawn_Patch:Postfix(Pawn __result)
+  at RimWorld.Faction.TryGenerateNewLeader () [0x002d7] in <981a33edf24d499488b0f820d94638e1>:0 
+    - PREFIX co.uk.epicguru.factionloadout: Boolean FactionLoadout.FactionLeaderPatch:Prefix(Boolean& __result)
+  at RimWorld.FactionGenerator.NewGeneratedFaction (RimWorld.Planet.PlanetLayer layer, RimWorld.FactionGeneratorParms parms) [0x00244] in <981a33edf24d499488b0f820d94638e1>:0 
+    - POSTFIX OskarPotocki.VEF: Void VEF.Planet.VanillaExpandedFramework_FactionGenerator_NewGeneratedFaction_Patch:Postfix(PlanetLayer layer, FactionGeneratorParms parms, Faction& __result)
+  at RimWorld.FactionGenerator.CreateFactionAndAddToManager (RimWorld.Planet.PlanetLayer layer, RimWorld.FactionDef facDef) [0x000cf] in <981a33edf24d499488b0f820d94638e1>:0 
+  at RimWorld.FactionGenerator.AddFactionToManager (RimWorld.Planet.PlanetLayer layer, RimWorld.FactionDef facDef) [0x00000] in <981a33edf24d499488b0f820d94638e1>:0 
+  at RimWorld.FactionGenerator.InitializeFactions (RimWorld.Planet.PlanetLayer layer, System.Collections.Generic.List`1[T] factions) [0x00026] in <981a33edf24d499488b0f820d94638e1>:0 
+    - TRANSPILER WorldTechLevel.Filters: IEnumerable`1 WorldTechLevel.Patches.Patch_FactionGenerator:InitializeFactions_Transpiler(IEnumerable`1 instructions)
+  at RimWorld.FactionGenerator.GenerateFactionsIntoWorldLayer (RimWorld.Planet.PlanetLayer layer, System.Collections.Generic.List`1[T] factions) [0x00044] in <981a33edf24d499488b0f820d94638e1>:0 
+    - PREFIX WorldbuilderMod: Void Worldbuilder.FactionGenerator_GenerateFactionsIntoWorld_Patch:Prefix(List`1& factions)
+    - PREFIX com.rimworld.mod.factioncontrol: Void FactionControl.Patch_FactionGenerator_GenerateFactionsIntoWorldLayer:Prefix(PlanetLayer layer)
+    - POSTFIX com.rimworld.mod.factioncontrol: Void FactionControl.Patch_FactionGenerator_GenerateFactionsIntoWorld:Postfix()
+    - POSTFIX WorldbuilderMod: Void Worldbuilder.FactionGenerator_GenerateFactionsIntoWorld_Patch:Postfix()
+  at RimWorld.Planet.WorldGenStep_Factions.GenerateFresh (System.String seed, RimWorld.Planet.PlanetLayer layer) [0x00006] in <981a33edf24d499488b0f820d94638e1>:0 
+  at RimWorld.Planet.WorldGenerator.GeneratePlanetLayer (RimWorld.Planet.PlanetLayer layer, System.String seedString, System.Int32 seed) [0x0004f] in <981a33edf24d499488b0f820d94638e1>:0 
+Error while generating pawn. Rethrowing. Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: collection
+[Ref 5858D967] Duplicate stacktrace, see ref for original
+Error in WorldGenStep: System.ArgumentNullException: Value cannot be null.
+Parameter name: collection
+[Ref 76A2F300] Duplicate stacktrace, see ref for original
+Achtung v4.0.3.0 Info: To make Achtung log some performance info, create an empty 'AchtungPerformance.txt' file in same directory as Player.log
+System.Collections.Generic.KeyNotFoundException: The given key 'FactionLoadout_Special_CreepJoiner' was not present in the dictionary.
+[Ref A9406B6F]
+ [0x00010] in <51fded79cd284d4d911c5949aff4cb21>:0 
+ [0x00000] in <51fded79cd284d4d911c5949aff4cb21>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <51fded79cd284d4d911c5949aff4cb21>:0 
+  at VEF.Factions.ScenPartUtility.FinaliseFactionGoodwillCharacteristics (RimWorld.FactionDef faction) [0x000b0] in <2b346198a6bd4041b713822d259f84ff>:0 
+  at VEF.Factions.FactionGoodwillModifier.FinalizeInit (System.Boolean fromLoad) [0x00025] in <2b346198a6bd4041b713822d259f84ff>:0 
+  at RimWorld.Planet.WorldComponentUtility.FinalizeInit (RimWorld.Planet.World world, System.Boolean fromLoad) [0x00013] in <981a33edf24d499488b0f820d94638e1>:0 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 22)
+Unloading 204 unused Assets to reduce memory usage. Loaded Objects now: 110924.
+Total: 1188.368354 ms (FindLiveObjects: 7.183595 ms CreateObjectMapping: 7.856096 ms MarkObjects: 1172.925609 ms  DeleteObjects: 0.396349 ms)
+
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Inspect string for WorldObject_MapMarker Marker (tile=61569,0) contains empty lines.
+
+START
+A location marked on the map.
+
+<i><color=#66E0E4FF>Worldbuilder</color></i>
+END
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+Faction Exo Corporation has null relation with PlayerColony. Returning dummy relation.
+null texture passed to GUI.DrawTexture
+[WorldTechLevel v1.1.6] Current world tech level is Industrial.
+[WorldTechLevel v1.1.6] Player faction tech level from scenario is Industrial.
+null texture passed to GUI.DrawTexture
+null texture passed to GUI.DrawTexture
+null texture passed to GUI.DrawTexture
+null texture passed to GUI.DrawTexture
+FactionControl: Temporarily set 'Surface' settlementsPer100kTiles to 75-85 for world generation.
+UnloadedWorldObjectComp  Init
+Error while generating pawn. Rethrowing. Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: collection
+[Ref 5858D967] Duplicate stacktrace, see ref for original
+Error in WorldGenStep: System.ArgumentNullException: Value cannot be null.
+Parameter name: collection
+[Ref 76A2F300] Duplicate stacktrace, see ref for original
+Error while generating pawn. Rethrowing. Exception: System.ArgumentNullException: Value cannot be null.
+Parameter name: collection
+[Ref 5858D967] Duplicate stacktrace, see ref for original
+Error in WorldGenStep: System.ArgumentNullException: Value cannot be null.
+Parameter name: collection
+[Ref 76A2F300] Duplicate stacktrace, see ref for original
+Achtung v4.0.3.0 Info: To make Achtung log some performance info, create an empty 'AchtungPerformance.txt' file in same directory as Player.log
+System.Collections.Generic.KeyNotFoundException: The given key 'FactionLoadout_Special_CreepJoiner' was not present in the dictionary.
+[Ref A9406B6F] Duplicate stacktrace, see ref for original
+Unloading 1 Unused Serialized files (Serialized files now loaded: 22)
+Unloading 830 unused Assets to reduce memory usage. Loaded Objects now: 110933.
+Total: 1265.439951 ms (FindLiveObjects: 7.418471 ms CreateObjectMapping: 9.024261 ms MarkObjects: 1247.794901 ms  DeleteObjects: 1.192260 ms)
+
